@@ -1,1 +1,1 @@
-This showcases the streamlined use of AWS SageMaker for model training and inference. The same methodology applies to deep neural networks, following the protocol implemented in this repository.
+This repository demonstrates how to use SageMaker for scalable training, model evaluation, and deployment of Scikit-Learn-based machine learning workflows.
